@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ventru557
 - 👀 I’m interested in learning new things,
 - 🌱 I’m a NAS Infrastructure Analyst
-- 💞️ I’m like to contribute on Infrastructure Automation
+- 💞️ I like to contribute on Infrastructure Automation
 - 📫 How to reach me ...profession.thamma@gmail.com
 
 <!---
